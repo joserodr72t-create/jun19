@@ -25,7 +25,17 @@ from google.adk.tools.skill_toolset import SkillToolset
 from google.adk.tools.mcp_tool import McpToolset
 from google.adk.tools.mcp_tool.mcp_session_manager import StreamableHTTPConnectionParams
 
+from google.adk.tools.agent_tool import AgentTool
+from .rag_agent import rag_rules_agent
+
+
 logger = logging.getLogger(__name__)
+
+# Timeouts del MCP de Maps (segundos). Configurables por entorno.
+#   MAPS_MCP_TIMEOUT          -> timeout de conexion/request
+#   MAPS_MCP_SSE_READ_TIMEOUT -> lectura del stream SSE (el que evita el cuelgue de 300s)
+MAPS_MCP_TIMEOUT = float(os.environ.get("MAPS_MCP_TIMEOUT", "30"))
+MAPS_MCP_SSE_READ_TIMEOUT = float(os.environ.get("MAPS_MCP_SSE_READ_TIMEOUT", "60"))
 
 # Cached resolved key. None means "not yet resolved"; "" means "resolved but empty".
 _resolved_maps_key: str | None = None
@@ -111,6 +121,10 @@ def get_maps_tools() -> list:
 
     Requires both GOOGLE_CLOUD_PROJECT and GOOGLE_MAPS_API_KEY.
     Safe to call without either -- returns [] with a warning log.
+
+    Los timeouts evitan que una tool call de Maps que no responde bloquee
+    al cliente MCP durante el valor por defecto (300 s): con sse_read_timeout
+    el stream corta antes y el error se ve enseguida.
     """
     project_id = os.getenv("GOOGLE_CLOUD_PROJECT", "").strip()
     maps_key = _resolve_maps_key()
@@ -123,14 +137,22 @@ def get_maps_tools() -> list:
         )
         return []
 
+    logger.info(
+        "Maps MCP: timeout=%ss, sse_read_timeout=%ss",
+        MAPS_MCP_TIMEOUT,
+        MAPS_MCP_SSE_READ_TIMEOUT,
+    )
+
     mcpToolset = McpToolset(
         connection_params=StreamableHTTPConnectionParams(
             url="https://mapstools.googleapis.com/mcp",
             headers={
                 "X-Goog-Api-Key": maps_key,
                 "Content-Type": "application/json",
-                "Accept": "application/json, text/event-stream"
-            }
+                "Accept": "application/json, text/event-stream",
+            },
+            timeout=MAPS_MCP_TIMEOUT,
+            sse_read_timeout=MAPS_MCP_SSE_READ_TIMEOUT,
         )
     )
 
@@ -196,5 +218,6 @@ def get_tools() -> list:
     ]
 
     tools.extend(get_maps_tools())
+    
 
     return tools
