@@ -29,7 +29,7 @@ tools = []
 # tools=get_tools()
 
 root_agent = Agent(
-    model="gemini-3.1-pro-preview",
+    model="gemini-2.5-pro",
     name="planner_agent",
     description=description,
     instruction=instruction,
