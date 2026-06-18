@@ -5,8 +5,6 @@
 > Un **agente planificador** (Marathon Planner) sobre el framework actual de agentes de Google — **Agent Development Kit (ADK)** — que combina **Skills** (capacidades cargadas dinámicamente), **herramientas MCP** (Google Maps vía Model Context Protocol), **RAG** (recuperación con citas sobre un corpus propio en Vertex AI RAG Engine) y se despliega en el runtime gestionado **Vertex AI Agent Engine** (parte de Gemini Enterprise Agent Platform).
 >
 > **Este bloque (1)** deja la base lista: entorno de **Cloud Shell**, **variables de entorno** deterministas, habilitación de **APIs**, clonado del repositorio oficial de Google, instalación de **ADK** con `uv`, y la **primera ejecución** del agente base con Gemini.
->
-> **Repositorio base (oficial):** `GoogleCloudPlatform/next-26-keynotes` → carpeta `devkey/demo-1` (codelab del *Developer Keynote* de Google Cloud Next '26).
 
 > 🎓 **Encuadre vs. examen ACE.** La capa de IA del agente (ADK, Agent Engine, MCP, RAG) **no se examina** en la Associate Cloud Engineer: sirve para **entender los componentes** de una solución de agentes en Gemini Enterprise. Pero el *envoltorio* sí es ACE puro: en cada fase marcaremos con 🎓 lo que **sí entra** en el examen (proyecto, APIs, Cloud Storage, Secret Manager, cuentas de servicio/IAM, Cloud Logging/Trace).
 
