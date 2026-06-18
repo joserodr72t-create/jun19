@@ -198,7 +198,7 @@ tools = []
 # tools=get_tools()
 
 root_agent = Agent(
-    model="gemini-3.1-pro-preview",
+    model="gemini-2.5-pro",
     name="planner_agent",
     description=description,
     instruction=instruction,
@@ -206,7 +206,7 @@ root_agent = Agent(
 )
 ```
 
-Fíjate en los dos bloques `TODO` comentados: son los que iremos descomentando en el Bloque 2 para activar el prompt modular y las herramientas. El modelo es **`gemini-3.1-pro-preview`** (Gemini 3.1 Pro vía Vertex AI).
+Fíjate en los dos bloques `TODO` comentados: son los que iremos descomentando en el Bloque 2 para activar el prompt modular y las herramientas. El modelo es **`gemini-2.5-pro`** (Gemini Pro vía Vertex AI).
 
 La clase **`Agent`** de ADK abstrae el historial de mensajes, la orquestación de herramientas y la comunicación con el LLM: tú solo defines **modelo**, **identidad**, **instrucción** y **herramientas**. Ahora mismo el agente es genérico (sin skills, MCP ni tools); eso lo añadimos en el Bloque 2.
 
