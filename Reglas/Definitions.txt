@@ -1,0 +1,684 @@
+﻿2026 ANTI-DOPING RULES 
+
+APPENDIX 1 
+
+DEFINITIONS 
+
+ 
+  
+
+ 
+
+ 
+
+
+
+ 
+ 
+
+When used in these Anti-Doping Rules, the following words or terms have the following meanings 
+(the defined terms below include their plural and possessive forms, as well as those terms used 
+as other parts of speech): 
+
+ADAMS: The Anti-Doping Administration and Management System (ADAMS) is a web-based 
+database management tool for data entry, storage, sharing, and reporting designed to assist 
+stakeholders and WADA in their anti-doping operations in conjunction with data protection 
+legislation. 
+
+Administration: Providing, supplying, supervising, facilitating, or otherwise participating in the Use 
+or Attempted Use by another Person of a Prohibited Substance or Prohibited Method. However, 
+this definition will not include the actions of bona fide medical personnel involving a Prohibited 
+Substance or Prohibited Method Used for genuine and legal therapeutic purposes or other 
+acceptable justification and will not include actions involving Prohibited Substances that are not 
+prohibited in Out-of-Competition Testing unless the circumstances as a whole demonstrate that 
+such Prohibited Substances are not intended for genuine and legal therapeutic purposes or are 
+intended to enhance sport performance. 
+
+Adverse Analytical Finding: A report from a WADA-accredited laboratory or other WADA-
+approved laboratory that, consistent with the International Standard for Laboratories, establishes 
+in a Sample the presence of a Prohibited Substance or its Metabolites or Markers or evidence of 
+the Use of a Prohibited Method.  
+
+Adverse Passport Finding: A report identified as an Adverse Passport Finding as described in the 
+applicable International Standards. 
+
+Aggravating Circumstances: Circumstances involving, or actions by, an Athlete or other Person 
+that may justify the imposition of a period of Ineligibility greater than the standard sanction. Such 
+circumstances and actions include, but are not limited to: the Athlete or other Person Used or 
+Possessed multiple Prohibited Substances or Prohibited Methods, Used or Possessed a Prohibited 
+Substance or Prohibited Method on multiple occasions or committed multiple other anti-doping 
+rule violations; a normal individual would be likely to enjoy the performance-enhancing effects of 
+the anti-doping rule violation(s) beyond the otherwise applicable period of Ineligibility; the 
+Athlete or other Person engaged in deceptive or obstructive conduct to avoid the detection or 
+adjudication of an anti-doping rule violation; or the Athlete or other Person engaged in Tampering 
+during Results Management. For the avoidance of doubt, the examples of circumstances and 
+conduct described herein are not exclusive and other similar circumstances or conduct may also 
+justify the imposition of a longer period of Ineligibility.  
+
+Anti-Doping Activities: Anti-doping Education and information, test distribution planning, 
+maintenance of a Registered Testing Pool, managing Athlete Biological Passports, conducting 
+Testing, organising analysis of Samples, gathering of intelligence and conduct of investigations, 
+processing of TUE applications, Results Management, monitoring and enforcing compliance with 
+any Consequences imposed, and all other activities related to anti-doping to be carried out by or 
+on behalf of an Anti-Doping Organisation, as set out in the World Anti-Doping Code and/or the 
+International Standards. 
+
+Anti-Doping Organisation: WADA or a Signatory that is responsible for adopting rules for initiating, 
+implementing or enforcing any part of the Doping Control process. This includes, for example, the 
+
+ 
+
+ 
+
+
+
+ 
+ 
+
+International Olympic Committee, the International Paralympic Committee, other Major Event 
+Organisations that conduct Testing at their Events, World Athletics and other international 
+federations, and National Anti-Doping Organisations. 
+
+Athlete: Any Person who competes in sport at the international level (as defined by each 
+International Federation), or the national level (as defined by each National Anti-Doping 
+Organisation). An Anti-Doping Organisation has discretion to apply anti-doping rules to an Athlete 
+who is neither an International-Level Athlete nor a national-level Athlete, and thus to bring them 
+within the definition of 'Athlete.' In relation to Athletes who are neither International-Level 
+Athletes nor National-Level Athletes, an Anti-Doping Organisation may elect to conduct limited 
+Testing or no Testing at all; analyse Samples for less than the full menu of Prohibited Substances; 
+require limited or no whereabouts information; or not require advance TUEs. However, if an Rule 
+2.1, 2.3 or 2.5 anti-doping rule violation is committed by any Athlete over whom an Anti-Doping 
+Organisation has elected to exercise its authority to test and who competes below the international 
+or national level, then the Consequences set forth in these Anti-Doping Rules must be applied. For 
+purposes of Rule 2.8 and Rule 2.9 and for purposes of anti-doping information and Education, any 
+Person who participates in sport under the authority of any Signatory, government, or other sports 
+organisation accepting the Code is an Athlete. 
+
+[Comment: Individuals who participate in sport may fall in one of five categories: 1) International-Level Athlete, 2) 
+National-Level Athlete, 3) individuals who are not International-Level or National-Level Athletes but over whom the 
+International Federation or National Anti-Doping Organisation has chosen to exercise authority, 4) Recreational 
+Athlete, and 5) individuals over whom no International Federation or National Anti-Doping Organisation has, or has 
+chosen to, exercise authority. All International-Level and National-Level Athletes are subject to the anti-doping rules of 
+the World Anti-Doping Code, with the precise definitions of international and national level sport to be set out in the 
+anti-doping rules of the International Federations and National Anti-Doping Organisations.]  
+
+Athlete Biological Passport: The program and methods of gathering and collating data as 
+described in the International Standard for Testing and Investigations and International Standard 
+for Laboratories. 
+
+Athlete Support Person: Any coach, trainer, manager, agent, team staff, official, medical, 
+paramedical personnel, parent or any other Person working with, treating or assisting an Athlete 
+participating in or preparing for sports Competition. 
+
+Athletics Integrity Unit: The Athletics Integrity Unit as defined in Rule 1.2 and Part X of the World 
+Athletics Constitution. 
+
+Attempt: Purposely engaging in conduct that constitutes a substantial step in a course of conduct 
+planned to culminate in the commission of an anti-doping rule violation; provided, however, that 
+there will be no anti-doping rule violation based solely on an Attempt to commit a violation if the 
+Person renounces the Attempt prior to it being discovered by a third party not involved in the 
+Attempt. 
+
+Atypical Finding: A report from a WADA-accredited laboratory or other WADA-approved 
+laboratory that requires further investigation prior to the determination of an Adverse Analytical 
+Finding, as provided in the International Standard for Laboratories or related Technical 
+Documents.  
+
+Atypical Passport Finding: A report described as an Atypical Passport Finding as described in the 
+applicable International Standards. 
+
+CAS: The Court of Arbitration for Sport. 
+
+ 
+
+ 
+
+
+
+ 
+ 
+
+Category ‘A’ Member Federation: A Member Federation that represents a high doping risk to the 
+integrity of the sport of Athletics at international level. 
+
+Category ‘B’ Member Federation: A Member Federation that represents a medium or potential 
+doping risk to the integrity of the sport of Athletics at international level. 
+
+Category ‘C’ Member Federation: A Member Federation that represents a low doping risk to the 
+integrity of the sport of Athletics at international level. 
+
+Competition: A single race or contest (e.g. the 100 metres or the Javelin Throw) including any 
+qualifying rounds thereof.  
+
+Consequences of anti-doping rule violations ('Consequences'): An Athlete’s or other Person’s 
+anti-doping rule violation may result in one or more of the following:  
+
+(a) Disqualification means the Athlete’s results in a particular Competition or Event are 
+invalidated, with all resulting Consequences including forfeiture of any medals, titles, 
+points, prize money, and prizes;  
+
+(b) Ineligibility means the Athlete or other Person is barred on account of an anti-doping rule 
+violation for a specified period of time from participating in any Competition, Event or 
+other activity or funding, as provided in Rule 10.14;  
+
+(c) Provisional Suspension means the Athlete or other Person is barred temporarily from 
+participating in any Competition, Event or activity prior to the final decision at a hearing 
+conducted under Rule 8.  
+
+(d) Financial Consequences means the recovery of costs associated with an anti-doping rule 
+violation; and  
+
+(e) Public Disclosure means the dissemination or distribution of information to the general 
+public or Persons beyond those Persons entitled to earlier notification in accordance with 
+Rule 14.  
+
+Contaminated Product: A product that contains a Prohibited Substance that is not disclosed on 
+the product label or in information available in a reasonable Internet search. 
+
+Corrective Action Notice: A notice issued by the Integrity Unit that identifies any Non-Compliance 
+by a Member Federation, the actions that the Member Federation shall take to correct the Non-
+Compliance, and the timeframes within which those corrective actions shall be completed. 
+
+Corrective Action Plan: A plan drafted by a Member Federation setting out how the Member 
+Federation will implement the corrective actions identified in a Corrective Action Notice within 
+the timeframes set in that notice.  
+
+Council:  means the body described in Part V of the World Athletics Constitution. 
+
+Critical Non-Compliance: Where a Member Federation has breached or not complied (or cannot 
+evidence compliance) with one or more of its obligations under Rule 15 that are set out in 
+Appendix 9 (Critical Non-Compliance List), or where a matter is otherwise stated in Rule 15 as 
+being a Critical Non-Compliance. 
+
+Decision Limit: The value of the result for a threshold substance in a Sample above which an 
+Adverse Analytical Finding will be reported, as defined in the International Standard for 
+Laboratories. 
+
+ 
+
+ 
+
+
+
+ 
+ 
+
+Delegated Third Party: Any Person to whom the Integrity Unit delegates any aspect of Doping 
+Control or anti-doping Education programs including, but not limited to, third parties or other 
+Anti-Doping Organisations that conduct Sample collection or other Doping Control services or 
+anti-doping Educational programs for the Integrity Unit, or individuals serving as independent 
+contractors who perform Doping Control services for the Integrity Unit (e.g., non-employee 
+Doping Control officers or chaperones). This definition does not include CAS. 
+
+Disqualification: See Consequences of anti-doping rule violations, above. 
+
+Doping Control: All steps and processes from test distribution planning through to ultimate 
+disposition of any appeal and the enforcement of Consequences, including all steps and 
+processes in between, including but not limited to Testing, investigations, whereabouts, TUEs, 
+Sample collection and handling, laboratory analysis, Results Management, and investigations or 
+proceedings relating to violations of Rule 10.14 (Status during Ineligibility or Provisional 
+Suspension). 
+
+Education: The process of learning to instil values and develop behaviours that foster and protect 
+the spirit of sport, and to prevent intentional and unintentional doping. 
+
+Effective Date: As defined in Rule 1.7. 
+
+Electronic Device: means without limitation any electronic communication device (such as a 
+smart phone) or electronic storage device (such as a computer, laptop computer, tablet, hard 
+drive, disk). 
+
+Electronic Services: mean without limitation any cloud-based services or servers (such as 
+WhatsApp, OneDrive, Facebook Messenger) or any other storage media or platforms on which 
+data may be stored (such as a social media platform). 
+
+Event: A series of individual Competitions held over one or more days under one ruling body (e.g., 
+the World Championships in Athletics or the Olympic Games). 
+
+Event of Force Majeure: An event affecting a Member Federation’s ability to achieve Rule 15 
+compliance that arises from or is attributable to acts, events, omissions, or accidents that are 
+beyond the reasonable control of the Member Federation. Such events may include any natural 
+physical disaster, war, military operations, riot, crowd disorder, strike, lock-outs or other 
+industrial action, terrorist action, or civil commotion.  
+
+In no circumstances, however, shall it be considered an Event of Force Majeure:  
+
+(1)  that the Non-Compliance has been caused by a lack of resources, changes in elected or 
+ appointed officials or personnel, or by any act or omission (including any interference 
+ and/or  a failure to provide support) by any governmental or other public authorities. 
+ Each Member Federation has voluntarily accepted the obligation to comply with its 
+ obligations under the Anti-Doping Rules, which includes an obligation under Rule 
+ 15.2.2 to take all necessary measures as may be required in order to achieve and 
+ maintain Rule 15 compliance; or  
+
+(2)  that the Member Federation delegated the task of complying with some or all of its 
+ obligations under Rule 15 to a Relevant Anti-Doping Organisation.  
+
+[Comment to definition of Event of Force Majeure]: A Member Federation with an obligation to comply with Rule 15 
+remains fully liable for any non-compliance even if it is due to the actions of other bodies that it relies on but that it 
+does not control. The Member Federation has the right to decide how to meet that obligation, including the right to 
+assign certain tasks to a Relevant Anti-Doping Organisation or other appropriate third party, should it see fit, but it 
+
+ 
+
+ 
+
+
+
+ 
+ 
+
+remains fully responsible for complying with the World Athletics Anti-Doping Rules, and is fully liable for any Non-
+Compliance caused by any failures of such third party.]  
+
+Event Period: The time between the beginning and end of an Event, as established by the ruling 
+body of the Event. 
+
+Event Venues: Those venues so designated by the ruling body for the Event. 
+
+Fault: Fault is any breach of duty or any lack of care appropriate to a particular situation. Factors 
+to be taken into consideration in assessing an Athlete’s or other Person’s degree of Fault include, 
+for example, the Athlete’s or other Person’s experience, whether the Athlete or other Person is 
+a Protected Person, special considerations such as impairment, the degree of risk that should 
+have been perceived by the Athlete and the level of care and investigation exercised by the 
+Athlete in relation to what should have been the perceived level of risk. In assessing the Athlete’s 
+or other Person’s degree of Fault, the circumstances considered must be specific and relevant to 
+explain the Athlete’s or other Person’s departure from the expected standard of behaviour. Thus, 
+for example, the fact that an Athlete would lose the opportunity to earn large sums of money 
+during a period of Ineligibility, or the fact that the Athlete only has a short time left in a career, 
+or the timing of the sporting calendar, would not be relevant factors to be considered in reducing 
+the period of Ineligibility under Rule 10.6.1 or 10.6.2. 
+
+[Comment: The criteria for assessing an Athlete’s degree of fault are the same under all Rules where fault is to be 
+considered. However, under Rule 10.6.2, no reduction of sanction is appropriate unless, when the degree of fault is 
+assessed, the conclusion is that No Significant Fault or Negligence on the part of the Athlete or other Person was 
+involved.] 
+
+Financial Consequences: See Consequences of anti-doping rule violations, above. 
+
+Hearing Process: The process encompassing the timeframe between the referral of a matter to 
+a hearing panel or tribunal until the issuance and notification of a decision by the hearing panel 
+(whether at first instance or on appeal). 
+
+In-Competition: The period commencing at 11:59 p.m. on the day before a Competition in which 
+the Athlete is scheduled to participate through to the end of such Competition and the Sample 
+collection process related to such Competition.  
+
+[Comment: Having a universally accepted definition for In-Competition provides greater harmonisation among Athletes 
+across all sports, eliminates or reduces confusion among Athletes about the relevant timeframe for In-Competition 
+Testing, avoids inadvertent Adverse Analytical Findings in between Competitions during an Event, and assists in 
+preventing any potential performance enhancement benefits from substances prohibited Out-of-Competition being 
+carried over to the Competition period.]   
+
+Independent Observer Program: A team of observers and/or auditors, under the supervision of 
+WADA, who observe and may provide guidance on the Doping Control process prior to or during 
+certain Events and report on their observations as part of WADA's compliance monitoring 
+program.  
+
+Individual Sport: Any sport that is not a team sport, i.e. individual, pursuit, sprint, super sprint and 
+mass start Competitions. 
+
+Ineligibility: See Consequences of anti-doping rule violations, above. 
+
+Institutional Independence: Hearing panels on appeal must be fully independent institutionally 
+from the Anti-Doping Organisation responsible for Results Management. They must therefore 
+not in any way be administered by, connected to or subject to the Anti-Doping Organisation 
+responsible for Results Management. 
+
+ 
+
+ 
+
+
+
+ 
+ 
+
+Integrity Code of Conduct: means the code of conduct described in Article 75 of the World 
+Athletics Constitution (as amended from time to time). 
+
+International Event: An Event or Competition where the International Olympic Committee, the 
+International Paralympic Committee, World Athletics, an International Federation, a Major Event 
+Organisation, or another international sport organisation is the ruling body for the Event or 
+appoints the technical officials for the Event. For World Athletics, an Event is an International 
+Event if it is an International Competition as that term is defined in the Constitution and World 
+Athletics Rules.  
+
+International-level Athlete: Athletes who compete in sport at the international level, as defined 
+by each international federation, consistent with the International Standard for Testing and 
+Investigations. For the sport of Athletics and for the purposes of these Anti-Doping Rules, 
+International-Level Athletes are defined as set out in Rule 1.4.4.  
+
+[Comment: Consistent with the International Standard for Testing and Investigations, the international federation is free 
+to determine the criteria it will use to classify Athletes as International-Level Athletes, e.g., by ranking, by participation 
+in particular International Events, by type of license, etc. However, it must publish those criteria in clear and concise form, 
+so that Athletes are able to ascertain quickly and easily when they will become classified as International-Level Athletes. 
+For example, if the criteria include participation in certain International Events, the international federation must publish 
+a list of those International Events.] 
+
+International Registered Testing Pool: As defined in Rule 5.5.3. 
+
+International Standard: A standard adopted by WADA in support of the World Anti-Doping Code. 
+International Standards include any Technical Documents issued pursuant to the International 
+Standard. 
+
+Mandatory Information Request: A request that the Integrity Unit may send to a Member 
+Federation, requiring the Member Federation to provide specified information by a specified date 
+and in such form as the Integrity Unit may require to enable the Integrity Unit to assess the 
+Member Federation’s Rule 15 compliance. 
+
+Major Event Organisations: The continental associations of National Olympic Committees and 
+other international multi-sport organisations that function as the ruling body for any continental, 
+regional or other international event.  
+
+Marker: A compound, group of compounds or biological variable(s) that indicates the Use of a 
+Prohibited Substance or Prohibited Method. 
+
+Metabolite: Any substance produced by a biotransformation process.  
+
+Member or Member Federation: as defined in the World Athletics Constitution. 
+
+Minimum Reporting Level: The estimated concentration of a Prohibited Substance or its 
+Metabolite(s) or Marker(s) in a Sample below which WADA-accredited laboratories should not 
+report that Sample as an Adverse Analytical Finding. 
+
+Minor: A natural Person who has not reached the age of 18. 
+
+National Anti-Doping Organisation: The entity(ies) designated by each country as possessing the 
+primary authority and responsibility to adopt and implement anti-doping rules, direct the 
+collection of Samples, manage test results, and conduct Results Management, all at the national 
+level. If this designation has not been made by the competent public authority(ies), the entity will 
+be the country’s National Olympic Committee or its designee. 
+
+National-level Athlete: Athletes who compete in sport at the national level, as defined by each 
+
+ 
+
+ 
+
+
+
+ 
+ 
+
+National Anti-Doping Organisation, consistent with the International Standard for Testing and 
+Investigations. 
+
+National Event: A sport Event or Competition involving International-Level or National-Level 
+Athletes that is not an International Event. 
+
+National Olympic Committee: The organisation recognised by the International Olympic 
+Committee. The term National Olympic Committee will also include the national sport 
+confederation in those countries where the national sport confederation assumes typical National 
+Olympic Committee responsibilities in the anti-doping area. 
+
+No Fault or Negligence: The Athlete or other Person’s establishing that they did not know or 
+suspect, and could not reasonably have known or suspected even with the exercise of utmost 
+caution, that they had Used or been Administered the Prohibited Substance or Prohibited Method 
+or otherwise violated and anti-doping rule. Except in the case of a Protected Person or 
+Recreational Athlete, for any violation of Rule 2.1, the Athlete must also establish how the 
+Prohibited Substance entered their system. 
+
+No Significant Fault or Negligence: The Athlete or other Person’s establishing that any Fault or 
+Negligence, when viewed in the totality of the circumstances and taking into account the criteria 
+for No Fault or Negligence, was not significant in relation to the anti-doping rule violation. Except 
+in the case of a Protected Person or Recreational Athlete, for any violation of Rule 2.1, the Athlete 
+must also establish how the Prohibited Substance entered their system. 
+
+Non-Compliance: Where a Member Federation has breached or not complied (or cannot 
+evidence compliance) with one or more of its obligations under Rule 15 other than those set out 
+in Appendix 9 (Critical Non-Compliance List). 
+
+Operational Independence: This means that (1) board members, staff members, commission 
+members, consultants, and officials of the Anti-Doping Organisation with responsibility for 
+Results Management or its affiliates (e.g., member federation or confederation), as well as any 
+Person involved in the investigation and pre-adjudication of the matter cannot be appointed as 
+members and/or clerks (to the extent that such clerk is involved in the deliberation process 
+and/or drafting of any decision) of hearing panels of that Anti-Doping Organisation with 
+responsibility for Results Management and (2) hearing panels shall be in a position to conduct 
+the hearing and decision-making process without interference from the Anti-Doping Organisation 
+or any third party. The objective is to ensure that members of the hearing panel or individuals 
+otherwise involved in the decision of the hearing panel, are not involved in the investigation of, 
+or decisions to proceed with, the case. 
+
+Out-of-Competition: The period(s) defined in Rule 5.5.1. 
+
+Person: A natural person (including any Athlete or Athlete Support Personnel) or an organisation 
+or other entity.  
+
+Possession: The actual, physical Possession, or the constructive Possession (which will be found 
+only if the Person has exclusive control or intends to exercise control over the Prohibited 
+Substance/Method or the premises in which a Prohibited Substance/Method exists); provided, 
+however, that if the Person does not have exclusive control over the Prohibited 
+Substance/Method or the premises in which a Prohibited Substance/Method exists, constructive 
+Possession will only be found if the Person knew about the presence of the Prohibited 
+Substance/Method and intended to exercise control over it. Provided, however, there will be no 
+anti-doping rule violation based solely on Possession if, prior to receiving notification of any kind 
+
+ 
+
+ 
+
+
+
+ 
+ 
+
+that the Person has committed an anti-doping rule violation, the Person has taken concrete action 
+demonstrating that the person never intended to have Possession and has renounced Possession 
+by explicitly declaring it to an Anti-Doping Organisation. Notwithstanding anything to the contrary 
+in this definition, the purchase (including by any electronic or other means) of a Prohibited 
+Substance or Prohibited Method constitutes Possession by the Person who makes the purchase. 
+
+[Comment: Under this definition, anabolic steroids found in an Athlete's car would constitute a violation unless the 
+Athlete establishes that someone else used the car; in that event, the Integrity Unit must establish that, even though 
+the Athlete did not have exclusive control over the car, the Athlete knew about the anabolic steroids and intended to 
+have control over them. Similarly, in the example of anabolic steroids found in a home medicine cabinet under the joint 
+control of an Athlete and spouse, the Integrity Unit must establish that the Athlete knew the anabolic steroids were in 
+the cabinet and that the Athlete intended to exercise control over them. The act of purchasing a Prohibited Substance 
+alone constitutes Possession, even where, for example, the product does not arrive, is received by someone else, or is 
+sent to a third-party address.] 
+
+Prohibited List: The list identifying the Prohibited Substances and Prohibited Methods. 
+
+Prohibited Method: Any method so described on the Prohibited List. 
+
+Prohibited Substance: Any substance, or class of substances, so described on the Prohibited List. 
+
+Protected Person: An Athlete or other natural Person who at the time of the anti-doping rule 
+violation: (i) has not reached the age of 16; (ii) has not reached the age of 18 and is not included 
+in any Registered Testing Pool and has never competed in any International Event in an open 
+category; or (iii) for reasons other than age has been determined to lack legal capacity under 
+applicable national legislation. 
+
+[Comment: The Code and these Anti-Doping Rules treat Protected Persons differently than other Athletes or Persons in 
+certain circumstances based on the understanding that, below a certain age or intellectual capacity, an Athlete or other 
+Person may not possess the mental capacity to understand and appreciate the prohibitions against conduct contained 
+in the World Anti-Doping Code. This would include, for example, a Paralympic Athlete with a documented lack of legal 
+capacity due to an intellectual impairment. The term 'open category' is meant to exclude competition that is limited to 
+junior or age group categories.] 
+
+Provisional Hearing: For purposes of Rule 7.4.4, an abbreviated hearing occurring prior to a 
+hearing under Rule 8 that provides the Athlete or other Person with notice and an opportunity to 
+be heard in written form as described in Rule 7. 
+
+[Comment: A Provisional Hearing is only a preliminary proceeding that may not involve a full review of the facts of the 
+case. Following a Provisional Hearing, the Athlete or other Person remains entitled to a subsequent full hearing on the 
+merits of the case.] 
+
+Provisional Suspension: See Consequences of anti-doping rule violations, above. 
+
+Publicly Disclose (or Public Disclosure): See Consequences of anti-doping rule violations, above. 
+For the purposes of proceedings under Rule 12, Public Disclosure means the dissemination or 
+distribution of information to the general public or Persons beyond those Persons entitled to 
+earlier notification. 
+
+Recreational Athlete: A natural Person who is so defined by the relevant National Anti-Doping 
+Organisation; provided, however, the term does not include any Person who, within the five 
+years prior to committing any anti-doping rule violation, has been an International-Level Athlete 
+(as defined by each International Federation consistent with the International Standard for 
+Testing and Investigations) or National-Level Athlete (as defined by each National Anti-Doping 
+Organisation consistent with the International Standard for Testing and Investigations), has 
+represented any country in an International Event in an open category or has been included 
+within any Registered Testing Pool or other whereabouts information pool maintained by any 
+
+ 
+
+ 
+
+
+
+ 
+ 
+
+International Federation or National Anti-Doping Organisation. 
+
+[Comment: The term 'open category' is meant to exclude competition that is limited to junior or age group categories.] 
+
+Regional Anti-Doping Organisation: A regional entity designated by member countries to 
+coordinate and manage delegated areas of their national anti-doping programs, which may 
+include the adoption and implementation of anti-doping rules, the planning and collection of 
+Samples, the management of results, the review of TUEs, the conduct of hearings, and the conduct 
+of Educational programs at a regional level. 
+
+Relevant Anti-Doping Organisation: For the purposes of Rule 15, in respect of a Member 
+Federation, any one or more organisation, authority, body or entity operating in the region or 
+country of the Member Federation that is responsible or has the authority within that region or 
+country for anti-doping in the sport of Athletics or for any matter connected with the 
+requirements of this Rule or is otherwise responsible for discharging any of the Member 
+Federation's obligations under these Anti-Doping Rules. 
+
+Registered Testing Pool: The pool of highest-priority Athletes established separately at the 
+international level by the Integrity Unit, and at the national level by National Anti-Doping 
+Organisations, who are subject to focused In-Competition and Out-of-Competition Testing as part 
+of that International Federation’s or National Anti-Doping Organisation’s test distribution plan and 
+therefore are required to provide whereabouts information as provided in Rule 5.5 and the 
+International Standard for Testing and Investigations. 
+
+Results Management: The process encompassing the timeframe between notification as per 
+Article 5 of the International Standard for Results Management, or in certain cases (e.g., Atypical 
+Finding, Athlete Biological Passport, whereabouts failure), such pre-notification steps expressly 
+provided for in Article 5 of the International Standard for Results Management, through the 
+charge until the final resolution of the matter, including the end of the hearing process at first 
+instance or on appeal (if an appeal was lodged). 
+
+Sample or Specimen: Any biological material collected for the purposes of Doping Control. 
+
+[Comment: It has sometimes been claimed that the collection of blood Samples violates the tenets of certain religious or 
+cultural groups. It has been determined that there is no basis for any such claim.] 
+
+Signatories: Those entities accepting the World Anti-Doping Code and agreeing to implement the 
+World Anti-Doping Code, as provided in Article 23 of the World Anti-Doping Code. 
+
+Specified Method: See Rule 4.2.2. 
+
+Specified Substance: As defined in Rule 4.2.2. 
+
+Strict Liability: The rule that provides that under Rule 2.1 and Rule 2.2, it is not necessary that 
+intent, Fault, Negligence, or knowing Use on the Athlete’s part be demonstrated by the Anti-
+Doping Organisation in order to establish an anti-doping rule violation.  
+
+Substance of Abuse: See Rule 4.2.3. 
+
+Substantial Assistance: For purposes of Rule 10.7.1, a Person providing Substantial Assistance 
+must: (1) fully disclose in a signed written statement or recorded interview all information they 
+possess in relation to anti-doping rule violations or other proceeding described in Rule 10.7.1(a), 
+and (2) fully cooperate with the investigation and adjudication of any case or matter related to 
+that information, including, for example, presenting testimony at a hearing if requested to do so 
+by an Anti-Doping Organisation or hearing panel. Further, the information provided must be 
+
+ 
+
+ 
+
+
+
+ 
+ 
+
+credible and must comprise an important part of any case or proceeding that is initiated or, if no 
+case or proceeding is initiated, must have provided a sufficient basis on which a case or 
+proceeding could have been brought. 
+
+Tampering: Intentional conduct that subverts the Doping Control process but that would not 
+otherwise be included in the definition of Prohibited Methods. Tampering shall include, without 
+limitation, offering or accepting a bribe to perform or fail to perform an act, preventing the 
+collection of a Sample, affecting or making impossible the analysis of a Sample, falsifying 
+documents submitted to an Anti-Doping Organisation or TUE committee or hearing panel, 
+procuring false testimony from witnesses, committing any other fraudulent act upon the Anti-
+Doping Organisation or hearing body to affect Results Management or the imposition of 
+Consequences, and any other similar intentional interference or Attempted interference with 
+any aspect of Doping Control. 
+
+[Comment: For example, this Rule would prohibit altering identification numbers on a Doping Control form during 
+Testing, breaking the B bottle at the time of B Sample analysis, altering a Sample by the addition of a foreign substance, 
+or intimidating or attempting to intimidate a potential witness or a witness who has provided testimony or information 
+in the Doping Control process. Tampering includes misconduct that occurs during the Results Management process. See 
+Rule 10.9.3(c). However, actions taken as part of a Person's legitimate defence to an anti-doping rule violation charge 
+shall not be considered Tampering. Offensive conduct towards a Doping Control official or other Person involved in 
+Doping Control that does not otherwise constitute Tampering shall be addressed in the disciplinary rules of sport 
+organisations.] 
+
+Target Testing: Selection of specific Athletes for Testing based on criteria set out in the 
+International Standard for Testing and Investigations.  
+
+Team sport: A sport in which the substitution of players is permitted during a Competition, i.e. 
+relay and mixed relay. 
+
+Technical Document: A document adopted and published by WADA from time to time containing 
+mandatory technical requirements on specific anti-doping topics as set forth in an International 
+Standard. 
+
+Testing: The parts of the Doping Control process involving test distribution planning, Sample 
+collection, Sample handling, and Sample transport to the laboratory. 
+
+Therapeutic: Of or relating to the treatment of a medical condition by remedial agents or 
+methods; or providing or assisting in a cure. 
+
+Therapeutic Use Exemption (TUE): A Therapeutic Use Exemption allows an Athlete with a 
+medical condition to Use a Prohibited Substance or Prohibited Method, but only if the conditions 
+set out in Rule 4.4 and the International Standard for Therapeutic Use Exemptions are met. 
+
+Trafficking: Selling, giving, transporting, sending, delivering or distributing (or possessing for any 
+such purpose) a Prohibited Substance or Prohibited Method (either physically or by any electronic 
+or other means) by an Athlete, Athlete Support Personnel or any other Person subject to the 
+authority of an Anti-Doping Organisation to any third party; provided, however, this definition will 
+not include the actions of 'bona fide' medical personnel involving a Prohibited Substance Used for 
+genuine and legal therapeutic purposes or other acceptable justification, and will not include 
+actions involving Prohibited Substances that are not prohibited in Out-of-Competition Testing 
+unless the circumstances as a whole demonstrate such Prohibited Substances are not intended 
+for genuine and legal therapeutic purposes or are intended to enhance sport performance.  
+
+TUE Committee: The panel appointed by the Integrity Unit to consider applications for the grant 
+or recognition of TUEs in accordance with Rule 4.4.4(c). The Integrity Unit may appoint 
+
+ 
+
+ 
+
+
+
+ 
+ 
+
+individuals to form such a panel, or it may delegate the appointment of the panel to a suitably 
+qualified third party or body. 
+
+Use: The utilisation, application, ingestion, injection or consumption by any means whatsoever of 
+any Prohibited Substance or Prohibited Method. 
+
+WADA: The World Anti-Doping Agency. 
+
+Without Prejudice Agreement: For purposes of Rules 10.7.1(a) and 10.8.2, a written agreement 
+between an Anti-Doping Organisation and an Athlete or other Person that allows the Athlete or 
+other Person to provide information to the Anti-Doping Organisation in a defined time-limited 
+setting with the understanding that, if an agreement for Substantial Assistance or a case 
+resolution agreement is not finalised, the information provided by the Athlete or other Person in 
+this particular setting may not be used by the Anti-Doping Organisation against the Athlete or 
+other Person in any Results Management proceeding under the World Anti-Doping Code, and 
+that the information provided by the Anti-Doping Organisation in this particular setting may not 
+be used by the Athlete or other Person against the Anti-Doping Organisation in any Results 
+Management proceeding under the World Anti-Doping Code. Such an agreement will not 
+preclude the Anti-Doping Organisation, Athlete or other Person from using any information or 
+evidence gathered from any source other than during the specific time-limited setting described 
+in the agreement.
